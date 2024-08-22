@@ -1,0 +1,2 @@
+mail: admin
+pass:admin
